@@ -98,6 +98,7 @@ header .coluna p {
 }
 header .coluna ul {
   margin: 16px 0 0;
+  margin-bottom: -12px;
 }
 header .coluna ul li {
   margin: 0 0 12px;
