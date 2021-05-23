@@ -98,7 +98,7 @@ header .coluna p {
 }
 header .coluna ul {
   margin: 16px 0 0;
-  margin-bottom: -12px;
+  
 }
 header .coluna ul li {
   margin: 0 0 12px;
@@ -222,6 +222,7 @@ label span {
 }
 .ativar-dark:checked ~ .dark-mode header {
   background-color: var(--corBackgroundSecundaria);
+  margin-bottom: -12px;
 }
 
 .ativar-dark:checked ~ .dark-mode header .container {
